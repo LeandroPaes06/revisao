@@ -1,0 +1,44 @@
+[
+    {
+        "id": 0,
+        "nome": "crxd",
+        "email": "ZXJ5a3l3aWxsaWFuNTNAZ21haWwuY29t",
+        "senha": "ZHh6dGV6dGU="
+    },
+    {
+        "id": 1,
+        "nome": "fewfw",
+        "email": "erykywillian53@gmail.com",
+        "senha": "fewfw"
+    },
+    {
+        "id": 2,
+        "nome": "ERYKY WILLIAN",
+        "email": "erykywillian53@gmail.com",
+        "senha": "hdhdh"
+    },
+    {
+        "id": 3,
+        "nome": "Lucas Lacerda Julio",
+        "email": "lukinhasjulio@gmail.com",
+        "senha": "2303062006"
+    },
+    {
+        "id": 4,
+        "nome": "Erika vieira",
+        "email": "erikaloh2021@gmail.com",
+        "senha": "608572"
+    },
+    {
+        "id": 5,
+        "nome": "\\sfFWEF",
+        "email": "SQWDXREQXE@GMAIL.COM",
+        "senha": "EFWFWFR"
+    },
+    {
+        "id": 6,
+        "nome": "fweyf32w",
+        "email": "f3gf32g4325@gmail.com",
+        "senha": "45yh5"
+    }
+]
